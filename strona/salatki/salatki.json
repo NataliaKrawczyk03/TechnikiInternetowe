@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "title": "Sałatka Cezar",
+        "image": "cezar.jpg",
+        "ingredients": [
+            "1/2 sałaty rzymskiej",
+            "150g grillowanego kurczaka",
+            "50g parmezanu",
+            "100g grzanek",
+            "50ml sosu cezar"
+        ],
+        "steps": [
+            "Umyj i porwij sałatę.",
+            "Pokrój kurczaka na kawałki i usmaż.",
+            "Dodaj kurczaka, grzanki i starty parmezan do sałaty.",
+            "Polej sałatkę sosem cezar i wymieszaj."
+        ],
+        "desc": "Tradycyjna sałatka Cezar to połączenie świeżych składników z kremowym sosem."
+    },
+    {
+        "id": 2,
+        "title": "Sałatka grecka",
+        "image": "greek.jpg",
+        "ingredients": [
+            "150g pomidorów",
+            "150g ogórków",
+            "100g sera feta",
+            "50g czarnych oliwek",
+            "3 łyżki oliwy z oliwek"
+        ],
+        "steps": [
+            "Pokrój pomidory, ogórek i fetę.",
+            "Dodaj oliwki i oliwę z oliwek.",
+            "Delikatnie wymieszaj składniki."
+        ],
+        "desc": "Klasyczna sałatka grecka, idealna na letnie dni."
+    },
+    {
+        "id": 3,
+        "title": "Sałatka Waldorf",
+        "image": "waldorf.jpg",
+        "ingredients": [
+            "2 jabłka",
+            "2 łodygi selera naciowego",
+            "50g orzechów włoskich",
+            "100g jogurtu naturalnego",
+            "1 łyżka miodu"
+        ],
+        "steps": [
+            "Pokrój jabłka i seler na cienkie plasterki.",
+            "Dodaj orzechy i jogurt.",
+            "Posłódź miodem i wymieszaj."
+        ],
+        "desc": "Wykwintna i orzeźwiająca sałatka idealna na każdą okazję."
+    },
+    {
+        "id": 4,
+        "title": "Sałatka z kurczakiem i mango",
+        "image": "mango.jpg",
+        "ingredients": [
+            "150g grillowanego kurczaka",
+            "1 mango",
+            "100g rukoli",
+            "50g orzechów nerkowca",
+            "3 łyżki sosu winegret"
+        ],
+        "steps": [
+            "Pokrój kurczaka i usmaż.",
+            "Połącz kurczaka z mango, rukolą i orzechami.",
+            "Polej sosem winegret i wymieszaj."
+        ],
+        "desc": "Egzotyczna sałatka z delikatnym kurczakiem i soczystym mango."
+    },
+    {
+        "id": 5,
+        "title": "Sałatka Caprese",
+        "image": "caprese.jpg",
+        "ingredients": [
+            "3 pomidory",
+            "150g mozzarelli",
+            "Kilka liści bazylii",
+            "3 łyżki oliwy z oliwek",
+            "Sól i pieprz"
+        ],
+        "steps": [
+            "Pokrój pomidory i mozzarellę w plastry.",
+            "Ułóż na talerzu na przemian.",
+            "Dodaj bazylię, polej oliwą i dopraw."
+        ],
+        "desc": "Klasyczna włoska sałatka o prostych, ale wyrazistych smakach."
+    },
+    {
+        "id": 6,
+        "title": "Sałatka z komosą ryżową",
+        "image": "komosa.jpg",
+        "ingredients": [
+            "100g ugotowanej komosy ryżowej",
+            "1 awokado",
+            "1 ogórek",
+            "100g szpinaku",
+            "2 łyżki pestek dyni"
+        ],
+        "steps": [
+            "Ugotuj komosę ryżową.",
+			"Pokrój awokado i ogórek.",
+            "Dodaj do wszystkie składniki do miski",
+            "Posyp pestkami dyni i wymieszaj."
+        ],
+        "desc": "Zdrowa i sycąca sałatka idealna na lunch."
+    },
+    {
+        "id": 7,
+        "title": "Sałatka z burakiem i serem kozim",
+        "image": "burak.jpg",
+        "ingredients": [
+            "2 pieczone buraki",
+            "100g sera koziego",
+            "50g orzechów włoskich",
+            "100g rukoli",
+            "3 łyżki octu balsamicznego"
+        ],
+        "steps": [
+            "Pokrój buraki w plasterki i przełóż do miski.",
+            "Dodaj rukolę, ser i orzechy.",
+            "Polej octem balsamicznym i wymieszaj."
+        ],
+        "desc": "Wyrafinowana sałatka o głębokim smaku, idealna na kolację."
+    },
+    {
+        "id": 8,
+        "title": "Sałatka z tuńczykiem",
+        "image": "tunczyk.jpg",
+        "ingredients": [
+            "1 puszka tuńczyka",
+            "1 ogórek",
+            "2 jajka na twardo",
+            "100g kukurydzy",
+            "3 łyżki majonezu"
+        ],
+        "steps": [
+            "Pokrój jajka i ogórek.",
+            "Dodaj tuńczyka i kukurydzę.",
+            "Wymieszaj z majonezem."
+        ],
+        "desc": "Prosta i sycąca sałatka idealna na szybki posiłek."
+    },
+    {
+        "id": 9,
+        "title": "Sałatka z łososiem i awokado",
+        "image": "losos.jpg",
+        "ingredients": [
+            "150g wędzonego łososia",
+            "1 awokado",
+            "100g miksu sałat",
+            "50g migdałów w płatkach",
+            "2 łyżki oliwy z oliwek"
+        ],
+        "steps": [
+            "Pokrój łososia i awokado.",
+            "Połącz z sałatą i migdałami.",
+            "Polej oliwą i delikatnie wymieszaj."
+        ],
+        "desc": "Delikatna sałatka o subtelnym smaku łososia i kremowym awokado."
+    },
+    {
+        "id": 10,
+        "title": "Sałatka makaronowa z pesto",
+        "image": "pesto.jpg",
+        "ingredients": [
+            "200g makaronu",
+            "100g pesto bazyliowego",
+            "150g pomidorków koktajlowych",
+            "50g sera feta",
+            "50g orzeszków piniowych"
+        ],
+        "steps": [
+            "Ugotuj makaron al dente.",
+			"Ugotowany makaron przełóż do miski",
+            "Dodaj pesto, pokrojone pomidorki i fetę.",
+            "Posyp orzeszkami piniowymi i wymieszaj."
+        ],
+        "desc": "Szybka i aromatyczna sałatka makaronowa z nutą bazylii."
+    },
+    {
+        "id": 11,
+        "title": "Sałatka z grillowanymi warzywami",
+        "image": "grill.jpg",
+        "ingredients": [
+            "1 cukinia",
+            "1 bakłażan",
+            "1 papryka",
+            "100g rukoli",
+            "3 łyżki oliwy z oliwek"
+        ],
+        "steps": [
+            "Grilluj pokrojone warzywa.",
+            "Połącz z rukolą.",
+            "Polej oliwą i podawaj."
+        ],
+        "desc": "Prosta i smaczna sałatka z wyrazistymi smakami grillowanych warzyw."
+    },
+    {
+        "id": 12,
+        "title": "Sałatka z kuskusem i warzywami",
+        "image": "kuskus.jpg",
+        "ingredients": [
+            "100g kuskusu",
+            "1 ogórek",
+            "1 pomidor",
+            "50g natki pietruszki",
+            "2 łyżki soku z cytryny"
+        ],
+        "steps": [
+            "Zalej kuskus wrzątkiem i odstaw.",
+            "Pokrój ogórek i pomidor.",
+            "Dodaj warzywa, pietruszkę i sok z cytryny.",
+            "Wymieszaj i podawaj."
+        ],
+        "desc": "Lekka i orzeźwiająca sałatka inspirowana kuchnią śródziemnomorską."
+    }
+]

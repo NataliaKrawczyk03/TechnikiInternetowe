@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "title": "Kremowe ciasto",
+        "image": "ciasto1.jpg",
+        "ingredients": [
+            "200g czekolady",
+            "150g masła",
+            "3 jajka",
+            "100g mąki",
+            "50g cukru"
+        ],
+        "steps": [
+            "Roztop masło z czekoladą.",
+            "Ubij jajka z cukrem.",
+            "Dodaj mąkę i wymieszaj z czekoladą.",
+            "Piecz w temperaturze 180°C przez 30 minut."
+        ],
+        "desc": "To kremowe ciasto z czekolady jest idealnym deserem na każdą okazję, delikatne i aromatyczne."
+    },
+    {
+        "id": 2,
+        "title": "Tiramisu",
+        "image": "ciasto2.jpg",
+        "ingredients": [
+            "500g twarogu",
+            "250g śmietany kremówki",
+            "150g herbatników",
+            "2 łyżki żelatyny",
+            "100g cukru pudru"
+        ],
+        "steps": [
+            "Rozpuść żelatynę w ciepłej wodzie.",
+            "Zmiksuj twaróg ze śmietaną i cukrem pudrem.",
+            "Ułóż herbatniki na dnie formy.",
+            "Dodaj masę serową i wstaw do lodówki na 3 godziny."
+        ],
+        "desc": "Tiramisu to klasyczny deser włoski, który łączy smak twarogu, śmietany i herbatników nasączonych kawą, idealny na każdą okazję."
+    },
+    {
+        "id": 3,
+        "title": "Brownie",
+        "image": "ciasto3.jpg",
+        "ingredients": [
+            "200g czekolady",
+            "150g masła",
+            "3 jajka",
+            "100g mąki",
+            "50g cukru"
+        ],
+        "steps": [
+            "Roztop masło z czekoladą.",
+            "Ubij jajka z cukrem.",
+            "Dodaj mąkę i wymieszaj z czekoladą.",
+            "Piecz w temperaturze 180°C przez 30 minut."
+        ],
+        "desc": "Brownie to pyszne, wilgotne ciasto czekoladowe, które zaspokoi każde pragnienie słodyczy."
+    },
+    {
+        "id": 4,
+        "title": "Sernik cytrynowy",
+        "image": "ciasto4.webp",
+        "ingredients": [
+            "200g twarogu",
+            "150g śmietany kremówki",
+            "2 jajka",
+            "100g cukru",
+            "1 cytryna (sok i skórka)"
+        ],
+        "steps": [
+            "Zmiksuj twaróg ze śmietaną i cukrem.",
+            "Dodaj sok i skórkę z cytryny.",
+            "Wlej masę na spód ciasteczkowy i piecz w temperaturze 170°C przez 50 minut.",
+            "Po upieczeniu schłodź w lodówce przez kilka godzin."
+        ],
+        "desc": "Sernik cytrynowy to lekki i orzeźwiający deser z wyraźnym cytrusowym smakiem, idealny na letnie dni."
+    },
+    {
+        "id": 5,
+        "title": "Sernik z galaretką",
+        "image": "ciasto5.webp",
+        "ingredients": [
+            "200g twarogu",
+            "250g śmietany kremówki",
+            "100g cukru pudru",
+            "2 opakowania galaretki owocowej",
+            "150g herbatników"
+        ],
+        "steps": [
+            "Zmiksuj twaróg ze śmietaną i cukrem pudrem.",
+            "Ułóż herbatniki na dnie formy.",
+            "Zrób galaretkę według instrukcji, wylej na ciasto.",
+            "Wstaw do lodówki na kilka godzin, aż galaretka stężeje."
+        ],
+        "desc": "Sernik z galaretką to doskonała propozycja na letni deser, który łączy gładką masę serową z orzeźwiającą galaretką."
+    },
+    {
+        "id": 6,
+        "title": "Tort czekoladowy",
+        "image": "ciasto6.jpg",
+        "ingredients": [
+            "200g czekolady",
+            "150g masła",
+            "3 jajka",
+            "100g mąki",
+            "50g cukru"
+        ],
+        "steps": [
+            "Roztop masło z czekoladą.",
+            "Ubij jajka z cukrem.",
+            "Dodaj mąkę i wymieszaj z czekoladą.",
+            "Piecz w temperaturze 180°C przez 30 minut."
+        ],
+        "desc": "Tort czekoladowy to idealny wybór na wielkie okazje, pełen bogatego smaku czekolady i delikatnej tekstury."
+    },
+    {
+        "id": 7,
+        "title": "Babka drożdżowa",
+        "image": "ciasto7.jpg",
+        "ingredients": [
+            "500g mąki",
+            "250ml mleka",
+            "100g masła",
+            "3 jajka",
+            "50g cukru",
+            "30g drożdży"
+        ],
+        "steps": [
+            "Rozpuść drożdże w ciepłym mleku z cukrem.",
+            "Wymieszaj z mąką, jajkami i masłem.",
+            "Zagnieć ciasto i odstaw do wyrośnięcia.",
+            "Po wyrośnięciu formuj babkę i piecz w temperaturze 180°C przez 40 minut."
+        ],
+        "desc": "Babka drożdżowa to klasyczne, puszyste ciasto, które będzie idealnym wyborem na rodzinne spotkania."
+    },
+    {
+        "id": 8,
+        "title": "Cynamonki",
+        "image": "ciasto8.jpg",
+        "ingredients": [
+            "500g mąki",
+            "250ml mleka",
+            "100g masła",
+            "50g cukru",
+            "2 łyżeczki cynamonu"
+        ],
+        "steps": [
+            "Wymieszaj wszystkie składniki na ciasto.",
+            "Zagnieć ciasto i odstaw na godzinę.",
+            "Rozwałkuj ciasto, posyp cynamonem i zwiń w rulon.",
+            "Pokrój na kawałki i piecz w temperaturze 180°C przez 20 minut."
+        ],
+        "desc": "Cynamonki to pachnące, słodkie bułeczki z cynamonem, które idealnie sprawdzą się na śniadanie."
+    },
+    {
+        "id": 9,
+        "title": "Ciastka czekoladowe",
+        "image": "ciasto9.jpg",
+        "ingredients": [
+            "200g czekolady",
+            "150g masła",
+            "2 jajka",
+            "100g mąki",
+            "50g cukru"
+        ],
+        "steps": [
+            "Roztop masło z czekoladą.",
+            "Ubij jajka z cukrem.",
+            "Dodaj mąkę i wymieszaj z czekoladą.",
+            "Formuj ciastka i piecz w temperaturze 180°C przez 15 minut."
+        ],
+        "desc": "Ciastka czekoladowe to idealna przekąska do kawy, pełna intensywnego smaku czekolady."
+    },
+    {
+        "id": 10,
+        "title": "Szarlotka",
+        "image": "ciasto10.jpg",
+        "ingredients": [
+            "500g jabłek",
+            "250g mąki",
+            "100g masła",
+            "50g cukru",
+            "1 jajko"
+        ],
+        "steps": [
+            "Zrób ciasto z mąki, masła, jajka i cukru.",
+            "Pokrój jabłka i wymieszaj z cukrem.",
+            "Wylej ciasto na blachę, ułóż jabłka i przykryj resztą ciasta.",
+            "Piecz w temperaturze 180°C przez 45 minut."
+        ],
+        "desc": "Szarlotka to tradycyjny deser, który łączy smaki słodkich jabłek i kruchego ciasta."
+    },
+    {
+        "id": 11,
+        "title": "Tort migdałowy",
+        "image": "ciasto11.jpg",
+        "ingredients": [
+            "200g migdałów",
+            "150g masła",
+            "3 jajka",
+            "100g mąki",
+            "50g cukru"
+        ],
+        "steps": [
+            "Zmiksuj migdały z masłem i cukrem.",
+            "Dodaj jajka i mąkę.",
+            "Formuj ciasto i piecz w temperaturze 180°C przez 30 minut."
+        ],
+        "desc": "Tort migdałowy to wyjątkowy deser z aromatem migdałów, który z pewnością zachwyci gości."
+    },
+    {
+        "id": 12,
+        "title": "Babeczki czekoladowe",
+        "image": "ciasto12.jpg",
+        "ingredients": [
+            "200g czekolady",
+            "150g masła",
+            "3 jajka",
+            "100g mąki",
+            "50g cukru"
+        ],
+        "steps": [
+            "Roztop masło z czekoladą.",
+            "Ubij jajka z cukrem.",
+            "Dodaj mąkę i wymieszaj z czekoladą.",
+            "Formuj babeczki i piecz w temperaturze 180°C przez 15 minut."
+        ],
+        "desc": "Babeczki czekoladowe to małe kawałki nieba, które sprawdzą się na każdej imprezie."
+    }
+]

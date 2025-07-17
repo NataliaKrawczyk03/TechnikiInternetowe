@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="#">
+
+    <style>
+        h1{
+            font-weight: bold;
+            color: rgb(78, 58, 58);
+            font-size: 50px;
+            text-align: center;
+        }
+        body{
+            text-align: center;
+            background-color: antiquewhite;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <h1>Gallery</h1>
+
+    <div id="gallery">
+        <img id ="photo" src="ob1.jpg">
+
+    </div>
+
+
+    <script>
+
+        const img = document.getElementById('photo');
+        const images = ['ob1.jpg', 'ob2.jpg', 'ob3.jpg', 'ob4.jpg'];
+        let currentIndex = 0; 
+
+        setInterval(() => {
+            currentIndex = (currentIndex + 1) % images.length; 
+            img.src = images[currentIndex]; 
+        }, 4000);
+
+    </script>
+    
+</body>
+
+</html>

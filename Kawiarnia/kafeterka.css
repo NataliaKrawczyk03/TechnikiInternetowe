@@ -1,0 +1,129 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    text-shadow: 3px 3px rgb(144, 167, 144);
+}
+
+@media screen and (min-width: 601px)
+{
+    header{
+        background-image: url('beech.png');
+        background-size: cover;
+        height: 220px;
+        color: antiquewhite;
+        border: solid 4px rgb(18, 72, 18);
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+        font-size: 25px; 
+    }
+    
+    #content {
+        font-size: large;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+    }
+    
+    #l{
+        padding-top: 40px;
+        padding-left: 12px;
+        flex: 1;
+        border-top: 3px solid rgb(18, 72, 18);
+        border-right: 3px solid rgb(18, 72, 18);
+        border-radius: 5px;
+    }
+        
+    #m{ flex: 6;}
+    
+    #r{
+        flex: 2;
+        border-bottom: 3px solid rgb(18, 72, 18);
+        border-right: 3px solid rgb(18, 72, 18);
+        border-radius: 5px;
+    }
+
+    a{
+        display: block;
+        color: rgb(18, 72, 18);
+        font-weight: bold;
+        margin-bottom: 20px;
+        font-size:large;
+    }
+
+    footer{
+        text-align: center;
+        border-top: 3px solid black;
+        margin-top: 40px;
+        padding-top: 10px;
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    header {
+        background-image: url('beech.png');
+        background-size: cover;
+        height: 100px;
+        color: antiquewhite;
+        border: solid 4px rgb(18, 72, 18);
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+    
+    #content {
+        font-size: medium;
+        margin-top: 5px;
+        display: block;
+        gap: 10px;
+    }
+    
+    #l{
+        padding-top: 40px;
+        padding-left: 12px;
+        border-top: 3px solid rgb(18, 72, 18);
+        border-right: 3px solid rgb(18, 72, 18);
+        border-radius: 5px;
+    }
+    
+    #r{
+        border-bottom: 3px solid rgb(18, 72, 18);
+        border-right: 3px solid rgb(18, 72, 18);
+        border-radius: 5px;
+    }
+
+    a{
+        display: block;
+        color: rgb(18, 72, 18);
+        font-weight: bold;
+        margin-bottom: 20px;
+        font-size:large;
+    }
+    
+    footer{
+
+        text-align: center;
+        border-top: 3px solid black;
+        margin-top: 40px;
+        padding-top: 10px;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+}
+

@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "title": "Pieczona ryba",
+        "image": "obiad1.jpg",
+        "ingredients": [
+            "200g ryby (np. łosoś)",
+            "1 cytryna",
+            "2 ząbki czosnku",
+            "150g masła",
+            "Sól i pieprz do smaku"
+        ],
+        "steps": [
+            "Ryby umyj i osusz.",
+            "Posyp solą i pieprzem.",
+            "Rozgrzej masło na patelni i dodaj pokrojony czosnek.",
+            "Smaż rybę przez kilka minut z obu stron.",
+            "Na końcu skrop cytryną i podawaj z ulubionymi dodatkami."
+        ],
+        "desc": "Pieczona ryba to lekka, zdrowa i pyszna propozycja na obiad. Idealna dla osób, które dbają o zdrowie."
+    },
+    {
+        "id": 2,
+        "title": "Stek z warzywami",
+        "image": "obiad2.jpg",
+        "ingredients": [
+            "300g steku (np. antrykot)",
+            "200g brokułów",
+            "100g marchwi",
+            "2 łyżki oliwy z oliwek",
+            "Sól i pieprz"
+        ],
+        "steps": [
+            "Stek przypraw solą i pieprzem, smaż na gorącej patelni z oliwą przez 4-5 minut z każdej strony.",
+            "W międzyczasie ugotuj brokuły i marchew.",
+            "Podawaj stek z ugotowanymi warzywami."
+        ],
+        "desc": "Stek z warzywami to klasyczne danie pełne białka i witamin. Szybkie do przygotowania i pyszne!"
+    },
+    {
+        "id": 3,
+        "title": "Kurczak w sezamie",
+        "image": "obiad3.jpg",
+        "ingredients": [
+            "300g piersi z kurczaka",
+            "2 łyżki sezamu",
+            "1 łyżka miodu",
+            "2 łyżki sosu sojowego",
+            "Sól i pieprz"
+        ],
+        "steps": [
+            "Kurczaka pokrój w kostkę, przypraw solą i pieprzem.",
+            "Smaż na patelni przez 5-7 minut.",
+            "Dodaj miód i sos sojowy, a na końcu posyp sezamem."
+        ],
+        "desc": "Kurczak w sezamie to aromatyczne danie, które łączy w sobie słodko-słony smak, idealne do szybkich obiadów."
+    },
+    {
+        "id": 4,
+        "title": "Burger",
+        "image": "obiad4.jpg",
+        "ingredients": [
+            "500g mielonego mięsa wołowego",
+            "4 bułki do burgerów",
+            "1 cebula",
+            "2 plastry sera",
+            "Ketchup, musztarda, sałata"
+        ],
+        "steps": [
+            "Uformuj kotlety z mielonego mięsa, przypraw solą i pieprzem.",
+            "Usmaż kotlety na patelni przez 5-7 minut.",
+            "Bułki przekrój i podpiecz lekko na patelni.",
+            "Złóż burgera: na bułce układaj kotlet, cebulę, ser, sałatę oraz ulubione sosy."
+        ],
+        "desc": "Burger to klasyka fast foodu, którą można łatwo dostosować do własnych gustów, dodając ulubione dodatki."
+    },
+    {
+        "id": 5,
+        "title": "Wrap",
+        "image": "obiad5.jpg",
+        "ingredients": [
+            "2 tortille",
+            "150g grillowanego kurczaka",
+            "50g sałaty",
+            "1 pomidor",
+            "Sos czosnkowy"
+        ],
+        "steps": [
+            "Tortille podgrzej na patelni.",
+            "Grillowanego kurczaka pokrój na paski.",
+            "Na tortillach rozłóż sałatę, pokrojonego pomidora i kurczaka.",
+            "Skrop sosem czosnkowym i zawiń w formie wrapa."
+        ],
+        "desc": "Wrap to lekka, ale sycąca przekąska, którą można zabrać ze sobą wszędzie. Doskonała na lunch!"
+    },
+    {
+        "id": 6,
+        "title": "Makaron pieczarkowy",
+        "image": "obiad6.jpg",
+        "ingredients": [
+            "200g makaronu (np. spaghetti)",
+            "200g pieczarek",
+            "100g śmietany",
+            "1 cebula",
+            "Sól, pieprz"
+        ],
+        "steps": [
+            "Makaron ugotuj al dente.",
+            "Pieczarki i cebulę pokrój, smaż na patelni do miękkości.",
+            "Dodaj śmietanę, przypraw solą i pieprzem.",
+            "Połącz makaron z sosem pieczarkowym i podawaj."
+        ],
+        "desc": "Makaron pieczarkowy to pyszne, kremowe danie, które sprawdzi się na szybki obiad."
+    },
+    {
+        "id": 7,
+        "title": "Lasagne",
+        "image": "obiad7.jpg",
+        "ingredients": [
+            "500g mięsa mielonego",
+            "1 opakowanie makaronu do lasagne",
+            "200g passaty pomidorowej",
+            "100g sera mozzarella",
+            "100g parmezanu"
+        ],
+        "steps": [
+            "Mięso mielone podsmaż na patelni.",
+            "Dodaj passatę pomidorową i gotuj przez kilka minut.",
+            "Na dnie naczynia żaroodpornego układaj warstwy makaronu, mięsa i sera.",
+            "Piecz w piekarniku w temperaturze 180°C przez 40 minut."
+        ],
+        "desc": "Lasagne to klasyczne włoskie danie, które zachwyca bogactwem smaków."
+    },
+    {
+        "id": 8,
+        "title": "Pieczony kurczak",
+        "image": "obiad8.jpg",
+        "ingredients": [
+            "1 kurczak",
+            "1 cytryna",
+            "2 łyżki masła",
+            "Sól, pieprz, zioła"
+        ],
+        "steps": [
+            "Kurczaka natrzyj solą, pieprzem i ziołami.",
+            "Włóż do środka cytrynę i masło.",
+            "Piecz w piekarniku przez 1,5 godziny w temperaturze 180°C."
+        ],
+        "desc": "Pieczony kurczak to klasyka niedzielnego obiadu, pachnąca i soczysta propozycja dla całej rodziny."
+    }
+]

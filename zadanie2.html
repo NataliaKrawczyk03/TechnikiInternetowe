@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Szklana Kula</title>
+</head>
+<body>
+    <h1>Szklana Kula</h1>
+    <form id="questionForm">
+        <label for="question">Zadaj pytanie:</label>
+        <input type="text" id="question" name="question" required>
+        <button type="submit">Zadaj pytanie</button>
+    </form>
+    <div id="answer"></div>
+
+    <script>
+        document.getElementById('questionForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            
+            const question = document.getElementById('question').value;
+
+            const randomNumber = Math.floor(Math.random() * 6);
+
+            let response;
+            switch (randomNumber) {
+                case 0:
+                    response = "Ułoży się";
+                    break;
+                case 1:
+                    response = "Może tak, może nie";
+                    break;
+                case 2:
+                    response = "Raczej nie";
+                    break;
+                case 3:
+                    response = "Bardzo prawdopodobne";
+                    break;
+                case 4:
+                    response = "Nigdy nie wiadomo";
+                    break;
+                case 5:
+                    response = "Zapytaj później";
+                    break;
+            }
+
+            const answerDiv = document.getElementById('answer');
+            answerDiv.innerHTML = `<p>Zadano mi pytanie: ${question}</p>
+                                    <p>Moja odpowiedz brzmi: ${response}</p>`;
+
+            console.log('Zadano mi pytanie:', question); 
+            console.log('Moja odpowiedz brzmi:', response);
+            console.log(randomNumber);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <title>Rainbow</title>
+    <link rel="stylesheet" href="#">
+
+    <style>
+        h1{
+            font-weight: bold;
+            color: rgb(78, 58, 58);
+            font-size: 50px;
+            text-align: center;
+        }
+        body{
+            background-color: antiquewhite;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+        div
+        {
+            background-color: white;
+            height: 30px;
+            width: 30px;
+            margin-bottom: 2px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <h1>Rainbow</h1>
+
+    <div id="red"></div>
+    <div id="orange"></div>
+    <div id="yellow"></div>
+    <div id="green"></div>
+    <div id="blue"></div>
+    <div id="indygo"></div>
+    <div id="violet"></div>
+    <br></br>
+    <button onclick="myFunction()">Show Rainbow</button>
+
+    <script>
+        function myFunction()
+        {
+        
+        const list = document.getElementsByTagName("div");
+        let numb = list.length;
+
+        for (let i = 0; i < numb; i++) {
+                list[i].style.backgroundColor = list[i].id;
+            }
+
+        }
+
+    </script>
+    
+</body>
+
+</html>

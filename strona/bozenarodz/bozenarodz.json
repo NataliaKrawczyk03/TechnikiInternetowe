@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "title": "Barszcz czerwony z uszkami",
+        "image": "barszcz.jpg",
+        "ingredients": [
+            "500g buraków",
+            "1 cebula",
+            "2 ząbki czosnku",
+            "200g grzybów suszonych",
+            "Ciasto na uszka"
+        ],
+        "steps": [
+            "Ugotuj buraki, cebulę i czosnek w bulionie.",
+            "Namocz i ugotuj grzyby, a następnie przygotuj farsz do uszek.",
+            "Ulep uszka i ugotuj je w osolonej wodzie.",
+            "Barszcz przecedź, dopraw i podawaj z uszkami."
+        ],
+        "desc": "Tradycyjna potrawa wigilijna, która zachwyci każdego przy świątecznym stole."
+    },
+    {
+        "id": 2,
+        "title": "Karp smażony",
+        "image": "karp.jpg",
+        "ingredients": [
+            "1 świeży karp",
+            "Mąka pszenna",
+            "Sól i pieprz",
+            "Olej do smażenia"
+        ],
+        "steps": [
+            "Oczyść i podziel karpia na dzwonki.",
+            "Dopraw solą i pieprzem, obtocz w mące.",
+            "Smaż na rozgrzanym oleju na złoty kolor."
+        ],
+        "desc": "Klasyczny smażony karp to obowiązkowy element wigilijnej wieczerzy."
+    },
+    {
+        "id": 3,
+        "title": "Pierogi z kapustą i grzybami",
+        "image": "pierogi.jpg",
+        "ingredients": [
+            "Ciasto na pierogi",
+            "300g kapusty kiszonej",
+            "100g suszonych grzybów",
+            "1 cebula"
+        ],
+        "steps": [
+            "Ugotuj grzyby, posiekaj i podsmaż z cebulą.",
+            "Dodaj kapustę, dopraw i podsmaż.",
+            "Przygotuj pierogi, gotuj w osolonej wodzie i podawaj."
+        ],
+        "desc": "Delikatne pierogi z aromatycznym farszem idealne na świąteczny stół."
+    },
+    {
+        "id": 4,
+        "title": "Śledzie w oleju",
+        "image": "sledzie.jpeg",
+        "ingredients": [
+            "500g filetów śledziowych",
+            "1 cebula",
+            "200ml oleju rzepakowego",
+            "Liść laurowy",
+            "Ziele angielskie"
+        ],
+        "steps": [
+            "Namocz śledzie w wodzie, aby usunąć nadmiar soli.",
+            "Pokrój cebulę w piórka.",
+            "Układaj warstwami śledzie i cebulę, zalewając olejem z przyprawami.",
+            "Odstaw na 24h do lodówki."
+        ],
+        "desc": "Proste i smaczne śledzie w klasycznym wydaniu."
+    },
+    {
+        "id": 5,
+        "title": "Karp w galarecie",
+        "image": "karpwgalarecie.jpg",
+        "ingredients": [
+            "1 karp",
+            "1 marchewka",
+            "1 pietruszka",
+            "Żelatyna",
+            "Sól i pieprz"
+        ],
+        "steps": [
+            "Ugotuj karpia w bulionie z warzywami.",
+            "Pokrój na kawałki i ułóż w naczyniu.",
+            "Zalej bulionem z żelatyną i odstaw do stężenia."
+        ],
+        "desc": "Wykwintny karp w galarecie to elegancka potrawa na święta."
+    },
+    {
+        "id": 6,
+        "title": "Kutia",
+        "image": "kutia.jpg",
+        "ingredients": [
+            "200g pszenicy",
+            "100g miodu",
+            "100g maku",
+            "50g orzechów",
+            "50g rodzynek"
+        ],
+        "steps": [
+            "Ugotuj pszenicę i sparz mak.",
+            "Zmiel mak i połącz z miodem.",
+            "Dodaj orzechy, rodzynki i wymieszaj z pszenicą."
+        ],
+        "desc": "Słodka i aromatyczna kutia to tradycyjny wigilijny deser."
+    },
+    {
+        "id": 7,
+        "title": "Makowiec",
+        "image": "makowiec.jpg",
+        "ingredients": [
+            "Ciasto drożdżowe",
+            "300g masy makowej",
+            "50g rodzynek",
+            "50g orzechów",
+            "Cukier puder"
+        ],
+        "steps": [
+            "Rozwałkuj ciasto drożdżowe.",
+            "Rozsmaruj masę makową, dodaj rodzynki i orzechy.",
+            "Zwiń, piecz w 180°C przez 40 minut.",
+            "Posyp cukrem pudrem."
+        ],
+        "desc": "Klasyczny makowiec to deser, którego nie może zabraknąć na świątecznym stole."
+    },
+    {
+        "id": 8,
+        "title": "Kompot z suszu",
+        "image": "kompot_z_suszu.jpg",
+        "ingredients": [
+            "200g suszonych śliwek",
+            "100g suszonych jabłek",
+            "100g suszonych gruszek",
+            "1 laska cynamonu",
+            "1l wody"
+        ],
+        "steps": [
+            "Namocz owoce w wodzie na kilka godzin.",
+            "Dodaj cynamon i gotuj na małym ogniu przez 30 minut.",
+            "Podawaj na ciepło lub zimno."
+        ],
+        "desc": "Aromatyczny kompot z suszu to idealny napój na wigilijną wieczerzę."
+    },
+    {
+        "id": 9,
+        "title": "Sałatka jarzynowa",
+        "image": "salatka_jarzynowa.jpg",
+        "ingredients": [
+            "4 ziemniaki",
+            "3 marchewki",
+            "1 pietruszka",
+            "4 jajka",
+            "Majonez"
+        ],
+        "steps": [
+            "Ugotuj warzywa i jajka, pokrój w kostkę.",
+            "Dodaj majonez i wymieszaj.",
+            "Dopraw solą i pieprzem."
+        ],
+        "desc": "Tradycyjna sałatka jarzynowa to klasyk polskiego stołu."
+    },
+    {
+        "id": 10,
+        "title": "Piernik świąteczny",
+        "image": "piernik.jpg",
+        "ingredients": [
+            "300g mąki",
+            "100g miodu",
+            "100g cukru",
+            "2 jajka",
+            "1 łyżeczka przyprawy do piernika"
+        ],
+        "steps": [
+            "Połącz składniki i wyrób ciasto.",
+            "Przełóż do foremki i piecz w 180°C przez 50 minut.",
+            "Ostudź i udekoruj lukrem."
+        ],
+        "desc": "Aromatyczny piernik to idealny deser na świąteczne wieczory."
+    },
+    {
+        "id": 11,
+        "title": "Łazanki z kapustą i grzybami",
+        "image": "lazanki.jpg",
+        "ingredients": [
+            "200g makaronu łazanki",
+            "300g kiszonej kapusty",
+            "100g grzybów",
+            "1 cebula"
+        ],
+        "steps": [
+            "Ugotuj makaron.",
+            "Podsmaż cebulę i grzyby, dodaj kapustę.",
+            "Wymieszaj z makaronem i podawaj."
+        ],
+        "desc": "Łazanki to prosta i pyszna potrawa wigilijna."
+    },
+    {
+        "id": 12,
+        "title": "Kluski z makiem",
+        "image": "kluski_z_makiem.jpg",
+        "ingredients": [
+            "200g makaronu",
+            "100g maku",
+            "50g miodu",
+            "50g rodzynek",
+            "50g orzechów"
+        ],
+        "steps": [
+            "Ugotuj makaron.",
+            "Zmiel mak i połącz z miodem.",
+            "Dodaj rodzynki, orzechy i wymieszaj z makaronem."
+        ],
+        "desc": "Tradycyjne kluski z makiem to słodki akcent na zakończenie wieczerzy."
+    }
+]

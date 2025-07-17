@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Czy rok jest przestępny</title>
+</head>
+<body>
+    <h1>Czy rok jest przestępny</h1>
+    <form id="questionForm">
+        <label for="question">Podaj rok:</label>
+        <input type="number" id="question" name="question" required>
+        <button type="submit">Sprawdź</button>
+    </form>
+    <div id="answer"></div>
+
+    <script>
+        document.getElementById('questionForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const year = parseInt(document.getElementById('question').value, 10);
+
+            let answer;
+            if (year % 4 == 0 && year % 100 != 0) { 
+                answer = 1; 
+            } else if (year % 400 == 0) { 
+                answer = 1; 
+            } else { 
+                answer = 0; 
+            }
+
+            let response;
+            switch (answer) {
+                case 0:
+                    response = "nie jest";
+                    break;
+                case 1:
+                    response = "jest";
+                    break;
+            }
+
+            const answerDiv = document.getElementById('answer');
+            answerDiv.innerHTML = `<p>Rok ${year} ${response} przestępny</p>`;
+
+
+            console.log('Rok', year); 
+            console.log(response);
+        });
+    </script>
+</body>
+</html>

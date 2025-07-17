@@ -1,0 +1,224 @@
+[
+    {
+        "id": 1,
+        "title": "Rosół z kury",
+        "image": "rosol.jpg",
+        "ingredients": [
+            "1 kura",
+            "2 marchewki",
+            "1 pietruszka",
+            "1 por",
+            "Sól i pieprz",
+			"Kostka rosołowa",
+			"Makaron"
+        ],
+        "steps": [
+            "Umyj i podziel kurę na kawałki.",
+            "Ugotuj mięso z warzywami w dużym garnku z wodą.",
+            "Dopraw kostką rosołową, solą i pieprzem, podawaj z makaronem."
+        ],
+        "desc": "Klasyczny, aromatyczny rosół to idealna zupa na każdą okazję."
+    },
+    {
+        "id": 2,
+        "title": "Zupa pomidorowa",
+        "image": "zupa_pomidorowa.jpg",
+        "ingredients": [
+            "1l bulionu",
+            "500ml przecieru pomidorowego",
+            "100ml śmietany",
+            "Makaron lub ryż",
+            "Sól i pieprz"
+        ],
+        "steps": [
+            "Podgrzej bulion i dodaj przecier pomidorowy.",
+            "Dopraw solą i pieprzem, zabiel śmietaną.",
+            "Podawaj z makaronem lub ryżem."
+        ],
+        "desc": "Delikatna i kremowa zupa pomidorowa to ulubione danie wielu osób."
+    },
+    {
+        "id": 3,
+        "title": "Krupnik",
+        "image": "krupnik.jpg",
+        "ingredients": [
+            "1l bulionu",
+            "100g kaszy jęczmiennej",
+            "2 ziemniaki",
+            "1 marchewka",
+            "Sól i pieprz"
+        ],
+        "steps": [
+            "Do bulionu dodaj kaszę i pokrojone warzywa.",
+            "Gotuj na wolnym ogniu, aż składniki będą miękkie.",
+            "Dopraw według uznania, podawaj na gorąco."
+        ],
+        "desc": "Krupnik to pożywna zupa, idealna na chłodniejsze dni."
+    },
+    {
+        "id": 4,
+        "title": "Zupa ogórkowa",
+        "image": "zupa_ogorkowa.jpg",
+        "ingredients": [
+            "1l bulionu",
+            "4 kiszone ogórki",
+            "2 ziemniaki",
+            "1 marchewka",
+            "Śmietana"
+        ],
+        "steps": [
+            "Pokrój warzywa i gotuj w bulionie.",
+            "Dodaj starte kiszone ogórki.",
+            "Zabiel śmietaną i podawaj na ciepło."
+        ],
+        "desc": "Kwaszona i wyrazista zupa ogórkowa to smak polskiej kuchni."
+    },
+    {
+        "id": 5,
+        "title": "Zupa grzybowa",
+        "image": "zupa_grzybowa.jpg",
+        "ingredients": [
+            "100g suszonych grzybów",
+            "1l bulionu",
+            "1 cebula",
+            "Śmietana",
+            "Makaron"
+        ],
+        "steps": [
+            "Namocz grzyby, a następnie ugotuj je w bulionie.",
+            "Podsmaż cebulę i dodaj do zupy.",
+            "Zabiel śmietaną i podawaj z makaronem."
+        ],
+        "desc": "Aromatyczna zupa grzybowa to doskonały wybór na obiad."
+    },
+    {
+        "id": 6,
+        "title": "Żurek",
+        "image": "zurek.jpg",
+        "ingredients": [
+            "1l zakwasu na żur",
+            "1l bulionu",
+            "2 ziemniaki",
+            "1 kiełbasa",
+            "Śmietana",
+			"Jajka"
+        ],
+        "steps": [
+            "Połącz zakwas z bulionem i gotuj.",
+            "Dodaj pokrojone ziemniaki i kiełbasę.",
+            "Zabiel śmietaną i podawaj z jajkiem na twardo."
+        ],
+        "desc": "Tradycyjny żurek to zupa, która zawsze smakuje."
+    },
+    {
+        "id": 7,
+        "title": "Zupa cebulowa",
+        "image": "zupa_cebulowa.jpg",
+        "ingredients": [
+            "4 cebule",
+            "1l bulionu",
+            "100ml białego wina",
+            "Grzanki",
+            "Ser żółty"
+        ],
+        "steps": [
+            "Podsmaż cebulę na maśle.",
+			"Następnie przełóż cebulę do garnka",
+            "Dodaj wino i bulion, gotuj przez 20 minut.",
+            "Podawaj z grzankami i startym serem."
+        ],
+        "desc": "Francuska zupa cebulowa to eleganckie i sycące danie."
+    },
+    {
+        "id": 8,
+        "title": "Zupa dyniowa",
+        "image": "zupa_dyniowa.jpg",
+        "ingredients": [
+            "500g dyni",
+            "1 cebula",
+            "1 ziemniak",
+            "100ml śmietany",
+            "Bulion warzywny"
+        ],
+        "steps": [
+            "Podsmaż cebulę.",
+			"Do garnka dodaj cebulę, dynię i ziemniaki.",
+            "Zalej bulionem i gotuj do miękkości.",
+            "Zblenduj, dodaj śmietanę i dopraw."
+        ],
+        "desc": "Kremowa zupa dyniowa to świetny wybór na jesień."
+    },
+    {
+        "id": 9,
+        "title": "Zupa fasolowa",
+        "image": "zupa_fasolowa.jpg",
+        "ingredients": [
+            "200g białej fasoli",
+            "4 marchewki",
+            "1 pietruszka",
+            "Bulion mięsny",
+            "Sól i pieprz"
+        ],
+        "steps": [
+            "Namocz fasolę i ugotuj w bulionie.",
+            "Dodaj pokrojone warzywa i gotuj do miękkości.",
+            "Dopraw solą i pieprzem, podawaj na gorąco."
+        ],
+        "desc": "Pożywna zupa fasolowa idealna na zimowe dni."
+    },
+    {
+        "id": 10,
+        "title": "Chłodnik litewski",
+        "image": "chlodnik.jpg",
+        "ingredients": [
+            "500ml kefiru",
+            "2 buraki",
+            "1 ogórek",
+            "Koperek",
+            "Jajko na twardo"
+        ],
+        "steps": [
+            "Ugotuj buraki, zetrzyj na tarce.",
+            "Połącz kefir z burakami, ogórkiem i koperkiem.",
+            "Podawaj schłodzony z jajkiem."
+        ],
+        "desc": "Lekki i orzeźwiający chłodnik litewski na upalne dni."
+    },
+    {
+        "id": 11,
+        "title": "Zupa krem z brokułów",
+        "image": "zupa_brokulowa.jpg",
+        "ingredients": [
+            "500g brokułów",
+            "1 ziemniak",
+            "1 cebula",
+            "100ml śmietany",
+            "Bulion warzywny"
+        ],
+        "steps": [
+            "Podsmaż cebulę, dodaj brokuły i ziemniaka do garnka.",
+            "Zalej bulionem i gotuj do miękkości.",
+            "Zblenduj, dodaj śmietanę i dopraw."
+        ],
+        "desc": "Delikatny krem z brokułów to zdrowa i smaczna propozycja."
+    },
+    {
+        "id": 12,
+        "title": "Zupa kapuśniak",
+        "image": "kapusniak.jpg",
+        "ingredients": [
+            "500g kiszonej kapusty",
+            "2 ziemniaki",
+            "1 marchewka",
+            "Bulion mięsny",
+            "Sól i pieprz"
+        ],
+        "steps": [
+            "Pokrój warzywa i gotuj w bulionie.",
+            "Dodaj kiszoną kapustę i gotuj do miękkości.",
+            "Dopraw solą i pieprzem, podawaj na gorąco."
+        ],
+        "desc": "Kwaśny kapuśniak to klasyczna zupa polskiej kuchni."
+    }
+]
+

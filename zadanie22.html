@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <title>Zadanie2</title>
+    <link rel="stylesheet" href="#">
+
+    <style>
+        h2{
+            font-weight: bold;
+            color: rgb(78, 58, 58);
+            font-size: 30px;
+
+        }
+        body{
+            background-color: antiquewhite;
+            background-color: #faebd7;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+        #white{
+            width: 60px;
+            height: 60px;
+            border:1px solid black;
+            margin-bottom: 20px;
+        }
+        .green{
+            background-color: green;
+        }
+        #orange{
+            width: 60px;
+            height: 60px;
+            border:1px solid black;
+            margin-bottom: 20px;
+            background-color: orange;
+            border-radius: 0px 3px 0px 3px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <h2>Operacje na atrybutach</h2>
+
+    <div id="white"></div>
+
+    <button onclick="setAt()">Ustaw atrybuty</button>
+    <button onclick="setId()">Zmień ID</button>
+    <button onclick="remClass()">Wyczyść</button>
+
+    <script>
+
+        function setAt()
+        {
+            const div = document.getElementById("white");
+            div.classList.add("green");
+            div.style.borderRadius = "50%";
+
+        }
+
+        function setId()
+        {
+            const div = document.getElementById("white");
+            div.id = "orange"
+
+        }
+
+        function remClass()
+        {
+            let div = document.getElementById("white") || document.getElementById("orange");
+            div.id = "white";
+            div.className = ""; 
+            div.removeAttribute("style");
+
+        }
+
+    </script>
+    
+</body>
+
+</html>
